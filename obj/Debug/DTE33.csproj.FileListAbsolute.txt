@@ -1,0 +1,25 @@
+C:\PROYECTOS 2015\DTE33\DTE33\bin\Debug\DTE33.exe.config
+C:\PROYECTOS 2015\DTE33\DTE33\obj\Debug\DTE33.Facturas.resources
+C:\PROYECTOS 2015\DTE33\DTE33\obj\Debug\DTE33.Properties.Resources.resources
+C:\PROYECTOS 2015\DTE33\DTE33\obj\Debug\DTE33.csproj.GenerateResource.Cache
+C:\PROYECTOS 2015\DTE33\DTE33\bin\Debug\DTE33.exe
+C:\PROYECTOS 2015\DTE33\DTE33\bin\Debug\DTE33.pdb
+C:\PROYECTOS 2015\DTE33\DTE33\bin\Debug\itextsharp.dll
+C:\PROYECTOS 2015\DTE33\DTE33\bin\Debug\itextsharp.xml
+C:\PROYECTOS 2015\DTE33\DTE33\obj\Debug\DTE33.exe
+C:\PROYECTOS 2015\DTE33\DTE33\obj\Debug\DTE33.pdb
+C:\PROYECTOS 2015\DTE33\DTE33\obj\Debug\DTE33.csproj.ResolveComReference.cache
+C:\PROYECTOS 2015\DTE33\DTE33\obj\Debug\DTE33.csprojResolveAssemblyReference.cache
+C:\PROYECTOS 2015 - copia\DTE33_2015\DTE33\bin\Debug\DTE33.exe.config
+C:\PROYECTOS 2015 - copia\DTE33_2015\DTE33\obj\Debug\DTE33.csproj.ResolveComReference.cache
+C:\PROYECTOS 2015 - copia\DTE33_2015\DTE33\obj\Debug\DTE33.exe
+C:\PROYECTOS 2015 - copia\DTE33_2015\DTE33\obj\Debug\DTE33.pdb
+C:\PROYECTOS 2015 - copia\DTE33_2015\DTE33\bin\Debug\DTE33.exe
+C:\PROYECTOS 2015 - copia\DTE33_2015\DTE33\bin\Debug\DTE33.pdb
+C:\PROYECTOS 2015 - copia\DTE33_2015\DTE33\bin\Debug\itextsharp.dll
+C:\PROYECTOS 2015 - copia\DTE33_2015\DTE33\bin\Debug\MySql.Data.dll
+C:\PROYECTOS 2015 - copia\DTE33_2015\DTE33\bin\Debug\itextsharp.xml
+C:\PROYECTOS 2015 - copia\DTE33_2015\DTE33\obj\Debug\DTE33.Facturas.resources
+C:\PROYECTOS 2015 - copia\DTE33_2015\DTE33\obj\Debug\DTE33.Properties.Resources.resources
+C:\PROYECTOS 2015 - copia\DTE33_2015\DTE33\obj\Debug\DTE33.csproj.GenerateResource.Cache
+C:\PROYECTOS 2015 - copia\DTE33_2015\DTE33\obj\Debug\DTE33.csprojResolveAssemblyReference.cache

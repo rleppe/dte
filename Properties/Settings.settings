@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="DTE33.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="DTE33_token_GetTokenFromSeedService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://palena.sii.cl/DTEWS/GetTokenFromSeed.jws</Value>
+    </Setting>
+    <Setting Name="DTE33_cl_sii_palena_QueryEstDteAvService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://palena.sii.cl/DTEWS/services/QueryEstDteAv</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
