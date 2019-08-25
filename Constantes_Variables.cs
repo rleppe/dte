@@ -11,7 +11,7 @@ namespace DTE33
         public static string StrPeriodo;
       
 
-        public string UNIDAD_DE_RED = "c:\\Leyton";
+        public string UNIDAD_DE_RED_L = "L:\\";
         public const string ConexionString = "Data Source=SERVER2008;Initial Catalog=VENTAS;User Id=sa;Password=f15xe";
         public const string ConexionStringW = "Data Source=SERVER2008;Initial Catalog=WARRANTS;User Id=sa;Password=f15xe";
         public static string Unidad = "c:\\leyton";

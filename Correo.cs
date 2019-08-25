@@ -133,7 +133,7 @@ namespace DTE33
 
               envios.Send(correos);
               envios.Dispose();
-              MessageBox.Show("El PDF fue enviado TO " + destinatario.Trim() + " " + destinatario1.Trim() + " " + destinatario2.Trim() );
+              MessageBox.Show("El PDF fue enviado a " + destinatario.Trim() + " " + destinatario1.Trim() + " " + destinatario2.Trim() );
           }
           catch (Exception ex)
           {
