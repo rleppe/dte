@@ -95,12 +95,12 @@ namespace DTE33
         
             if (rbS.Checked == true)
             {
-                DTE33.Constantes_Variables.Unidad = "s:\\";
+                DTE33.Constantes_Variables.Unidad_C_leyton = "s:\\";
             }
 
             if (rbL.Checked == true)
             {
-                DTE33.Constantes_Variables.Unidad = "l:\\almadena";
+                DTE33.Constantes_Variables.Unidad_C_leyton = "l:\\almadena";
             }
             carga_facturas();
             asigna_archivo_Facturas();
@@ -110,12 +110,12 @@ namespace DTE33
         {
             if (rbS.Checked == true)
             {
-                DTE33.Constantes_Variables.Unidad = "s:\\";
+                DTE33.Constantes_Variables.Unidad_C_leyton = "s:\\";
             }
 
             if (rbL.Checked == true)
             {
-               DTE33.Constantes_Variables.Unidad = "l:\\almadena";
+               DTE33.Constantes_Variables.Unidad_C_leyton = "l:\\almadena";
             }
             carga_facturas();
             asigna_archivo_Facturas();
@@ -151,7 +151,7 @@ namespace DTE33
             string StrOledbDBFIV;
             double dValor = 0;
             objconnDBFIV.ConnectionString = "Provider=Microsoft.Jet.OLEDB.4.0;" +
-                              "Data Source=" + Constantes_Variables.Unidad + ";Extended Properties=dBASE IV;" +
+                              "Data Source=" + Constantes_Variables.Unidad_C_leyton + ";Extended Properties=dBASE IV;" +
                                                                   "User ID=admin;Password=";
             try
             {
@@ -484,7 +484,7 @@ namespace DTE33
             string StrOledbDBFIV;
             // coneccion a tabla dbase
             objconnDBFIV.ConnectionString = "Provider=Microsoft.Jet.OLEDB.4.0;" +
-                              "Data Source=" + Constantes_Variables.Unidad + ";Extended Properties=dBASE IV;" +
+                              "Data Source=" + Constantes_Variables.Unidad_C_leyton + ";Extended Properties=dBASE IV;" +
                                                                   "User ID=admin;Password=";
             try
             {
@@ -1098,7 +1098,7 @@ private void Xml_Al_Cliente(string Xml_alcliente)
 
             // coneccion a tabla dbase
             objconnDBFIV.ConnectionString = "Provider=Microsoft.Jet.OLEDB.4.0;" +
-                              "Data Source=" + Constantes_Variables.Unidad + ";Extended Properties=dBASE IV;" +
+                              "Data Source=" + Constantes_Variables.Unidad_C_leyton + ";Extended Properties=dBASE IV;" +
                                                                   "User ID=admin;Password=";
             try
             {
@@ -1159,7 +1159,7 @@ private void Xml_Al_Cliente(string Xml_alcliente)
 
             // coneccion a tabla dbase
             objconnDBFIV.ConnectionString = "Provider=Microsoft.Jet.OLEDB.4.0;" +
-                              "Data Source=" + Constantes_Variables.Unidad + ";Extended Properties=dBASE IV;" +
+                              "Data Source=" + Constantes_Variables.Unidad_C_leyton + ";Extended Properties=dBASE IV;" +
                                                                   "User ID=admin;Password=";
             try
             {
@@ -1614,7 +1614,7 @@ private void Xml_Al_Cliente(string Xml_alcliente)
             string StrOledbDBFIV;
 
             objconnDBFIV.ConnectionString = "Provider=Microsoft.Jet.OLEDB.4.0;" +
-                              "Data Source=" + Constantes_Variables.Unidad + ";Extended Properties=dBASE IV;" +
+                              "Data Source=" + Constantes_Variables.Unidad_C_leyton + ";Extended Properties=dBASE IV;" +
                                                                   "User ID=admin;Password=";
             try
             {
