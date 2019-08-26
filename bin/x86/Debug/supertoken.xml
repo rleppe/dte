@@ -1,6 +1,6 @@
 <getToken>
   <item>
-    <Semilla>017675982976</Semilla>
+    <Semilla>018163848544</Semilla>
   </item>
   <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
     <SignedInfo>
@@ -11,10 +11,10 @@
           <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
         </Transforms>
         <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <DigestValue>/GDJo5E1teuMAxH3T4GQDlfMO/w=</DigestValue>
+        <DigestValue>VAeNwlvVDtUCN4xQnRBx4Ij/pus=</DigestValue>
       </Reference>
     </SignedInfo>
-    <SignatureValue>mvjLD+xnzJDfoz7qZcyNUnlAR/3xzRzlPwE52RqvKpkzRV2RXQaG67YLmZS1UeF7998Q7C4nUWlle4Ihxkv/zhAnuQrlAjtoq2Up1gMmQYq41j5b6ubwSY5jlmBLaAUkXngVbYEOQe6yP9jYXA+mESASVDJ2eNfb/qWNL3zbQWc=</SignatureValue>
+    <SignatureValue>uq4incMssK35Sss0oUMxAw3MLJWZWhtUNslKPnWdbym8sNi4q2X/nUQEKoqDk6frvywFLDwKqPz8LfuOywPeN7VmVTujQxC56XxuyQT2JNoSXIqr5gYzbggj77yPap6boDTWrGTLWWOFDP75Kg4P9NFzdXGYwju7vIsXi+YCwW4=</SignatureValue>
     <KeyInfo>
       <KeyValue>
         <RSAKeyValue>

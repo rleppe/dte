@@ -89,3 +89,16 @@ C:\PROYECTOS 2013 - copia\DTE33\DTE33\obj\x86\Debug\DTE33.Facturas.resources
 C:\PROYECTOS 2013 - copia\DTE33\DTE33\obj\x86\Debug\DTE33.Properties.Resources.resources
 C:\PROYECTOS 2013 - copia\DTE33\DTE33\obj\x86\Debug\DTE33.csproj.GenerateResource.Cache
 C:\PROYECTOS 2013 - copia\DTE33\DTE33\obj\x86\Debug\DTE33.csprojResolveAssemblyReference.cache
+C:\PROYECTOS 2013\DTE33\DTE33\bin\x86\Debug\DTE33.exe.config
+C:\PROYECTOS 2013\DTE33\DTE33\obj\x86\Debug\DTE33.csproj.ResolveComReference.cache
+C:\PROYECTOS 2013\DTE33\DTE33\obj\x86\Debug\DTE33.exe
+C:\PROYECTOS 2013\DTE33\DTE33\obj\x86\Debug\DTE33.pdb
+C:\PROYECTOS 2013\DTE33\DTE33\bin\x86\Debug\DTE33.exe
+C:\PROYECTOS 2013\DTE33\DTE33\bin\x86\Debug\DTE33.pdb
+C:\PROYECTOS 2013\DTE33\DTE33\bin\x86\Debug\itextsharp.dll
+C:\PROYECTOS 2013\DTE33\DTE33\bin\x86\Debug\MySql.Data.dll
+C:\PROYECTOS 2013\DTE33\DTE33\bin\x86\Debug\itextsharp.xml
+C:\PROYECTOS 2013\DTE33\DTE33\obj\x86\Debug\DTE33.csprojResolveAssemblyReference.cache
+C:\PROYECTOS 2013\DTE33\DTE33\obj\x86\Debug\DTE33.Facturas.resources
+C:\PROYECTOS 2013\DTE33\DTE33\obj\x86\Debug\DTE33.Properties.Resources.resources
+C:\PROYECTOS 2013\DTE33\DTE33\obj\x86\Debug\DTE33.csproj.GenerateResource.Cache
